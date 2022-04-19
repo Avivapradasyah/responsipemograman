@@ -1,0 +1,6 @@
+D:\My Data ALL\Documents\SEMESTER 2 (GENAB)\PEMROGRAMAN\latihan\ResponsiPemograman4335\ResponsiPemograman4335\bin\Debug\ResponsiPemograman4335.exe.config
+D:\My Data ALL\Documents\SEMESTER 2 (GENAB)\PEMROGRAMAN\latihan\ResponsiPemograman4335\ResponsiPemograman4335\obj\Debug\ResponsiPemograman4335.csprojResolveAssemblyReference.cache
+D:\My Data ALL\Documents\SEMESTER 2 (GENAB)\PEMROGRAMAN\latihan\ResponsiPemograman4335\ResponsiPemograman4335\bin\Debug\ResponsiPemograman4335.exe
+D:\My Data ALL\Documents\SEMESTER 2 (GENAB)\PEMROGRAMAN\latihan\ResponsiPemograman4335\ResponsiPemograman4335\bin\Debug\ResponsiPemograman4335.pdb
+D:\My Data ALL\Documents\SEMESTER 2 (GENAB)\PEMROGRAMAN\latihan\ResponsiPemograman4335\ResponsiPemograman4335\obj\Debug\ResponsiPemograman4335.exe
+D:\My Data ALL\Documents\SEMESTER 2 (GENAB)\PEMROGRAMAN\latihan\ResponsiPemograman4335\ResponsiPemograman4335\obj\Debug\ResponsiPemograman4335.pdb
